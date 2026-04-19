@@ -151,8 +151,9 @@ npm run dev
 ---
 
 ## 📸 Screenshots
+![Home Page](./screenshots/admin.png)
+![Home Page](./screenshots/frontend.png)
 
-> _Add your screenshots here_
 
 ---
 
